@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/amdesigns.github.io/static/css/main.e4776d44.css",
+    "main.js": "/amdesigns.github.io/static/js/main.519d83a7.js",
+    "static/media/hero-img.png": "/amdesigns.github.io/static/media/hero-img.92448bb4a6dc827c9c1a.png",
+    "static/media/about-us-img.png": "/amdesigns.github.io/static/media/about-us-img.7aea896c2b6aebff180d.png",
+    "static/media/commercial-projects-card.png": "/amdesigns.github.io/static/media/commercial-projects-card.3c068de6053de73db768.png",
+    "static/media/residential-projects-card.png": "/amdesigns.github.io/static/media/residential-projects-card.9cee30e82eb46132904b.png",
+    "static/media/interior-design-card.png": "/amdesigns.github.io/static/media/interior-design-card.a1cdd5480ee4e96126c8.png",
+    "static/media/logo.png": "/amdesigns.github.io/static/media/logo.deff4c107dbecd07e77e.png",
+    "index.html": "/amdesigns.github.io/index.html",
+    "main.e4776d44.css.map": "/amdesigns.github.io/static/css/main.e4776d44.css.map",
+    "main.519d83a7.js.map": "/amdesigns.github.io/static/js/main.519d83a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4776d44.css",
+    "static/js/main.519d83a7.js"
+  ]
+}
