@@ -1,0 +1,67 @@
+.parallax {
+    /* The image used */
+    background-image: url("/src/assets/hero-img.png");
+
+    /* Set a specific height */
+    min-height: 1000px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-container {
+    padding: 1rem 3rem;
+}
+
+.hero-details {
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 30%;
+    width: 25%;
+    border-radius: 38px;
+    padding: 3rem 4rem 3rem 4rem;
+}
+
+.title {
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 40px;
+    margin: 0;
+    margin-bottom: 1rem;
+}
+
+.subtitle {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.buttons {
+    display: flex;
+    gap: 2rem;
+}
+
+.buttons button {
+    background-color: #1E1E1E;
+    border-radius: 8px;
+    padding: 1rem 2rem 1rem 2rem;
+    border: none;
+    color: #F5F5F5;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.buttons button:hover {
+    background-color: darkgray;
+    cursor: pointer;
+}
+
+/* .sample {
+    height: 1000px;
+    background-color: red;
+    font-size: 36px;
+} */

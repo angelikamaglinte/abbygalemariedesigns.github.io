@@ -1,0 +1,16 @@
+.services-offered-card-details {
+    width: 25%;
+    margin-top: 5rem;
+}
+
+.title {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.description {
+    width: 90%;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
